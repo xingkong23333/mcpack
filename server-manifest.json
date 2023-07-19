@@ -1,0 +1,115 @@
+{
+  "name": "1.8.9",
+  "author": "星空",
+  "version": "1.0",
+  "description": "超级屌",
+  "fileApi": "https://mcpack.deversunion.com",
+  "files": [
+    {
+      "path": "mods/[IC2] industrialcraft-2-2.3.264-ex18.jar",
+      "hash": "f9e8f9bbedd0806f0c4e4e5ae3f78ffb3ceea573"
+    },
+    {
+      "path": "mods/[优化Essential] NotSoEssential-Forge-1.0.3.jar",
+      "hash": "b48ce98503503532cba1d9e04a8ba99edde34240"
+    },
+    {
+      "path": "mods/[优化帧数] BetterFps-1.2.0.jar",
+      "hash": "ca71e5563ab5880ba6603f60d02350c83c827151"
+    },
+    {
+      "path": "mods/[体验优化] randompatches-1.12.2-1.22.1.10.jar",
+      "hash": "d45d3cadbbab3f2222059b2acb68d9620c6839a8"
+    },
+    {
+      "path": "mods/[修复内存泄漏] MemoryFix-0.3.jar",
+      "hash": "8f363b35fd4df1389f3cd9408c5be2b23b61e9a0"
+    },
+    {
+      "path": "mods/[内存优化] foamfix-0.6.3-anarchy-1.8.x.jar",
+      "hash": "a3d24f286b96a031d035366c00ebb9c1e22c060a"
+    },
+    {
+      "path": "mods/[实体渲染优化] entityculling-forge-mc1.8.9-1.5.0.jar",
+      "hash": "8486805fba71de6788f6c60baf2e69f6bc3c59e7"
+    },
+    {
+      "path": "mods/[小地图] Xaeros_Minimap_21.10.34_Forge_1.8.9.jar",
+      "hash": "9fc90b7243b3300aa7f12447d82490e12e9c4c96"
+    },
+    {
+      "path": "mods/[幸运方块] lucky-block-forge-1.8.9-2.0.jar",
+      "hash": "3a6ad24be47e6eaf3b0e861765acd9b7f535d208"
+    },
+    {
+      "path": "mods/[按键显示] Keystrokes-8.1.2 (1.8.9).jar",
+      "hash": "7a7025237cdd1ff5f8f6c364fcf5004ee28296ff"
+    },
+    {
+      "path": "mods/[按键绑定] Controlling-7.0.0.1.jar",
+      "hash": "a4a92f90a04ac4feed6658cd52f2f1efc06552c7"
+    },
+    {
+      "path": "mods/[时钟] RealTimeClock-1.8.9-0.5.jar",
+      "hash": "fb3d7a9ebd4db41d5ad8ba412eb6c634247dfc69"
+    },
+    {
+      "path": "mods/[标题修改] itlt-1.8.8-9-1.0.2.jar",
+      "hash": "b651daa98b38df9736046104e691803edbe632d3"
+    },
+    {
+      "path": "mods/[模组汉化] I18nUpdateMod-3.5.0-all.jar",
+      "hash": "dd8b7ed6ab74dca90dfbd7243c1d2099dc538a9a"
+    },
+    {
+      "path": "mods/[物品栏HUD] InventoryHUD-1.8.9-3.2.1.jar",
+      "hash": "4e0e90cab037fb06282b14b6c5bb2c42cde96c87"
+    },
+    {
+      "path": "mods/[物品管理] jei_1.8.9-2.28.18.187.jar",
+      "hash": "c7d73aaeb73b83cda17b52e93df5a8f0f9f72afa"
+    },
+    {
+      "path": "mods/[等价交换] ProjectE-1.8.9-PE1.1.4.jar",
+      "hash": "90c3807f4c6298ec2e1708d9440cffe4f45ca44f"
+    },
+    {
+      "path": "mods/[综合优化] Patcher-1.8.7 (1.8.9).jar",
+      "hash": "6cd558e4590330c0af3814b00ea0497290430774"
+    },
+    {
+      "path": "mods/[苹果核] AppleCore-mc1.8.9-1.3.9.jar",
+      "hash": "31fb63c84f5e2fcc7444a054ed4f48d23d0f065e"
+    },
+    {
+      "path": "mods/[血量显示] torohealth-1.8.9-7.jar",
+      "hash": "aba4db0b47180ebc95ae25c2ce886d696564fa5e"
+    },
+    {
+      "path": "mods/[连锁矿工] VeinMiner-1.8.9-0.36.0.579+d08ea04.jar",
+      "hash": "5af0f68610cecbbab615a3958b86fa998e3e90b9"
+    },
+    {
+      "path": "mods/[音效优化] ModernSound-1.0.0.jar",
+      "hash": "5c58a571f8cde45f5fbf7c6ee6d00faf344f5ec8"
+    },
+    {
+      "path": "mods/[颜文字] japanese-emoji-commands-1.8.9-1.2.0.2.jar",
+      "hash": "91392a0cd4debb9db5324cc0af84e9c1a8d55d92"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.8.9"
+    },
+    {
+      "id": "forge",
+      "version": "11.15.1.1855"
+    },
+    {
+      "id": "optifine",
+      "version": "HD_U_M5"
+    }
+  ]
+}
